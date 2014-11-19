@@ -1,0 +1,30 @@
+{
+	"winner_msg":"",
+	"looser_msg":"You Lost!",
+	"questions":[
+					{
+						"q":"Co-founder of Google?",
+						"a":["Larry Page","Larry","Page","Sergey Brin","Sergey","Brin"]
+					},
+					{
+						"q":"Google product that has faced criticism from individuals claiming that it intrudes on others' privacy.",
+						"a":["Google Glass","Glass"]
+					},
+					{
+						"q":"Is it a bird? A plane? Superman? No! It's a balloon! What is this Moonshot called?",
+						"a":["Project Loon","Loon Project","Loon"]
+					},
+					{
+						"q":"Modular Phones.",
+						"a":["Project Ara","Ara"]
+					},
+					{
+						"q":"Company Google set up to extend lifespan",
+						"a":["Calico"]
+					},
+					{
+						"q":"Android is the brainchild of?",
+						"a":["Andy Rubin","Andy","Rubin","Miner"]
+					}
+				]
+}

@@ -1,0 +1,14 @@
+{
+	"name":"Treasure Hunt",
+	"msg_win":
+	"Here is your first clue for hunting the treasure: A hundred wheels but not one moves, save some place so the other removes. One part is for students and the other is not... Call me what I am called a lot.",
+	"rules":[
+				"No hacking allowed, any attempt to hack will lead to disqualification",
+				"Refreshing the page might cause all the progress to be lost, you will have to start again",
+				"The answers you submit are case insensitive",
+				"You will be given a question, correct answer to that question will take you to the next question",
+				"One who finishes all the questions will be given the clue for Treasure Hunt",
+				"Any attempt to communicate with member of any other team will lead to disqualification",
+				"Scratching and fighting to reach clues first is encouraged"
+			]
+}
