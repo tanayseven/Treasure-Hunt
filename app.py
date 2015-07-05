@@ -22,7 +22,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 
-from flask import Flask, url_for, render_template, request, redirect
+from flask import Flask, render_template, request, redirect
 import json
 from question_asker import QuestionSet
 
